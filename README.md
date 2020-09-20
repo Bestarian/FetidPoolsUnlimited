@@ -18,4 +18,6 @@ Steps for using:
 	- It will restore your characters Campaing and Adventure Progress.
 
 Credit to Cainfoe. I automated a method I found in one of his videos.
-- If you want to understand how this works, you can check it out http://y2u.be/NaIaOH79X_U
+- If you want to understand how this works, you can [check it out](http://y2u.be/NaIaOH79X_U)
+
+You can downlaod this as a zip [here](https://github.com/Bestarian/FetidPoolsUnlimited/archive/master.zip)
