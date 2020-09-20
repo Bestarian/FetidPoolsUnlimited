@@ -1,8 +1,8 @@
 *DISCLAIMER*
 - This is just a small collection of scripts I made for fun.
 - I do not take any responsibility for the outcome and any possible errors, I do belive it is save to use though.
-- It is designed for the Epicgames version.
-- I was not able to test the Steam version but do think it will work 
+- I have tested the functionallity with Epic 
+- I was not able to test the Steam version, but do think it will work 
 
 Steps for using: 
 1. Check which charcter you want to use the exploit with, look in what slot the character is.
